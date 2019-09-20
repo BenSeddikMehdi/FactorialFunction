@@ -1,0 +1,2 @@
+# FactorialFunction
+Function
